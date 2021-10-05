@@ -1,6 +1,3 @@
-console.log( 'I'm Daniel Marin Sereno 👋💻' )
-¡Fanatico total del anime y los gatos!❤️
-
 <h2 style="text-align: center">Quién soy? ✋</h2>
 
 📌 Soy un desarrollador Web Full Stack con conocimientos en JavaScript, Java y Python 👨‍💻. me siento muy cómodo desarrollando apps con tecnologías como React, Redux, Node, Express y Sequelize. Disfruto bastante el sentarme y ponerme a codear todo lo que veo en mi día a día, me siento poderoso cuando veo algo y me digo a mi mismo,"Estoy seguro que puedo programar eso", en fin mi pasión es programar!😊
