@@ -18,5 +18,5 @@ tengo un manejo de Java bastante bueno y quiero desarrollar un potente punto de 
 Hasta ahora, mi experiencia es principalmente académica.
 Pueden ver un poquito sobre quien soy yo plasmado en codigo en mis repositorios!❤️
 
-💬 Pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte.
+💬 Pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte!
 
