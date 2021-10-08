@@ -1,6 +1,6 @@
 <h2 style="text-align: center">Quién soy? ✋</h2>
-<img height="200px" src = "http://i.imgur.com/x0SHYwu.jpg"/>
-📌 Soy un desarrollador Web Full Stack con conocimientos en JavaScript, Java y Python 👨‍💻. me siento muy cómodo desarrollando apps con tecnologías como React, Redux, Node, Express y Sequelize. Disfruto bastante el sentarme y ponerme a codear todo lo que veo en mi día a día, me siento poderoso cuando veo algo y me digo a mi mismo,"Estoy seguro que puedo programar eso", en fin mi pasión es programar!😊
+
+📌 Soy un desarrollador Web Full Stack (Amante del anime!😊) con conocimientos en JavaScript, Java y Python 👨‍💻. me siento muy cómodo desarrollando apps con tecnologías como React, Redux, Node, Express y Sequelize. Disfruto bastante el sentarme y ponerme a codear todo lo que veo en mi día a día, me siento poderoso cuando veo algo y me digo a mi mismo,"Estoy seguro que puedo programar eso", en fin mi pasión es programar!😊
 
 <h2 style="text-align: center">¿Que me caracteriza? 🤷🏽‍♂️</h2>
 
