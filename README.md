@@ -10,7 +10,7 @@
 
 <h2 style = "text-align: center">📚 Tecnologías por aprender:</h2>
 
-Spring, Angular, Typescript: Estoy bastante entusiasmado aprendiendo estas tecnologias,
+Spring, Angular, TypeScript: Estoy bastante entusiasmado aprendiendo estas tecnologias,
 tengo un manejo de Java bastante bueno y quiero desarrollar un potente punto de venta con estas tecnologias!💻
 
 <h2 style = "text-align: center">¡Mi experiencia! 💻</h2>
