@@ -20,3 +20,5 @@ Pueden ver un poquito sobre quien soy yo plasmado en codigo en mis repositorios!
 
 💬 Pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte!
 
+<h2> Contactame </h2>
+<a href = "https://wa.me/qr/EMKOS6VK56SPH1"><img src "blob:https://web.whatsapp.com/e7b75d80-63f1-45f3-89bb-25db0cdaf761" alt = "My-profile"/></a>
