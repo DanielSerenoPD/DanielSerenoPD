@@ -22,5 +22,5 @@ Pueden ver un poquito sobre quien soy yo plasmado en codigo en mis repositorios!
 
 <h2 align = center> Contactame </h2>
 <h3 align = center>7152170992</h3>
-<a align = center href="https://wa.me/qr/EMKOS6VK56SPH1"><img width = "100px" height = "100px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" alt="Profile"></a>
+<div align = center <a href="https://wa.me/qr/EMKOS6VK56SPH1"><img width = "100px" height = "100px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" alt="Profile"></a></div>
 
