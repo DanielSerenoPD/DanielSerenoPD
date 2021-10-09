@@ -21,5 +21,5 @@ Pueden ver un poquito sobre quien soy yo plasmado en codigo en mis repositorios!
 💬 Pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte!
 
 <h2> Contactame </h2>
-<a href="https://wa.me/qr/EMKOS6VK56SPH1"><img src="https://w7.pngwing.com/pngs/551/579/png-transparent-whats-app-logo-whatsapp-logo-whatsapp-cdr-leaf-text.png" alt="Profile"></a>
+<a href="https://wa.me/qr/EMKOS6VK56SPH1"><img width = "200px" height = "200px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" alt="Profile"></a>
 
