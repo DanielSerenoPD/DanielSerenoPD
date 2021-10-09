@@ -13,6 +13,8 @@
 Spring, Angular, TypeScript: Estoy bastante entusiasmado aprendiendo estas tecnologias,
 tengo un manejo de Java bastante bueno y quiero desarrollar un potente punto de venta con estas tecnologias!💻
 
+<img align=centersrc "https://1.bp.blogspot.com/-7cuJb_EC5Fo/XSSHw25QPyI/AAAAAAAAC14/FLzWCcSH4HgZU0huCJEvZILdlS_YBq5XQCLcBGAs/s1600/java8-spring-boot-trypescript-angular.png" alt="stack"/>
+
 <h2 align = center>¡Mi experiencia! 💻</h2>
 
 Hasta ahora, mi experiencia es principalmente académica.
