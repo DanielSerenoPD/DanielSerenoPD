@@ -21,5 +21,6 @@ Pueden ver un poquito sobre quien soy yo plasmado en codigo en mis repositorios!
 💬 Pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte!
 
 <h2> Contactame </h2>
-<a href="https://wa.me/qr/EMKOS6VK56SPH1"><img width = "200px" height = "200px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" alt="Profile"></a>
+<h3>7152170992</h3>
+<a href="https://wa.me/qr/EMKOS6VK56SPH1"><img width = "100px" height = "100px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" alt="Profile"></a>
 
