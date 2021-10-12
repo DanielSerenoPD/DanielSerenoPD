@@ -8,7 +8,7 @@
 
 📌 También, tras estar codeando en java y manejando bases de datos con Mysql desde hace dos añitos mas o menos, y hasta la fecha sigo codeando en Java, me tuve que casar con el debido a la facultad!🤷🏽‍♂️ , algunos cursos de Python, flask y estar cursando un bootcamp de más de 800 horas de programación Web Full Stack, estoy listo para afrontar cualquier reto que me ayude a desarrollarme en estas áreas al aplicar toda mi experiencia, conocimientos en un lugar de trabajo que me ayude a seguir aprendiendo, que este lleno de retos que me hagan crecer profesionalmente!!
 
-<h2 align = center>📚 Tecnologías por aprender:</h2>
+<h2 align = center>📚 Tecnologías por aprender: </h2>
 
 Spring, Angular, TypeScript: Estoy bastante entusiasmado aprendiendo estas tecnologias,
 tengo un manejo de Java bastante bueno y quiero desarrollar un potente punto de venta con estas tecnologias!💻
@@ -27,6 +27,6 @@ Pueden ver un poquito sobre quien soy yo plasmado en codigo en mis repositorios!
 <h3 align = center>7152170992</h3>
 <div align = center>
    <a href="https://wa.me/qr/EMKOS6VK56SPH1"><img width = "100px" height = "100px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" alt="Profile"></a>
-   <a href="https://www.linkedin.com/in/danielserenopd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUiGdt0omTvyPm%2BqQGfl%2FDQ%3D%3D"><img width = "90px" height = "90px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin"></a>
+   <a href="https://www.linkedin.com/in/danielserenopd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUiGdt0omTvyPm%2BqQGfl%2FDQ%3D%3D"><img width = "91px" height = "91px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin"></a>
 </div>
 
