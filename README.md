@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://wallpapercave.com/wp/wp8903962.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://github.com/DanielSerenoPD/DanielSerenoPD/blob/main/svg.svg" alt="cover" />
 </div>
 <h2 align = center >Quién soy? ✋</h2>
 
