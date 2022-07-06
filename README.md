@@ -36,7 +36,6 @@ tengo un manejo de Java bastante bueno y quiero desarrollar un potente punto de 
 
 <h2 align = center>¡Mi experiencia! 💻</h2>
 
-Hasta ahora, mi experiencia es principalmente académica.
 Pueden ver un poquito sobre quien soy yo plasmado en codigo en mis repositorios!❤️
 
 <p align = center>💬 Pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte!</p>
