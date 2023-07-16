@@ -1,7 +1,12 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://github.com/DanielSerenoPD/DanielSerenoPD/blob/main/svg.svg" alt="cover" />
 </div>
-<h2 align = center >Quién soy? ✋</h2>
+<h2 align = center><a href= https://github.com/DanielSerenoTN >¡CLICK TO GO TO MY PROFESSIONAL GITHUB! 💻</a></h2>
+<div align="center">
+<a href= https://github.com/DanielSerenoTN > <img width ='82px' src ='https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png'> </a>
+</div>
+
+<h2 align = center > Quién soy? ✋</h2>
 
 📌 Soy un desarrollador Web Full Stack (Amante del anime!😊) con conocimientos en JavaScript, Java y Python 👨‍💻. me siento muy cómodo desarrollando apps con tecnologías como React, Redux, Node, Express y Sequelize. Disfruto bastante el sentarme y ponerme a codear todo lo que veo en mi día a día, me siento poderoso cuando veo algo y me digo a mi mismo,"Estoy seguro que puedo programar eso", en fin mi pasión es programar!😊
 
